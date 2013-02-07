@@ -1,0 +1,10 @@
+{
+    "name": "omc-proxy",
+    "description": "nodejs version of dev proxy server",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "latest",
+        "underscore": "latest"
+    }
+}
